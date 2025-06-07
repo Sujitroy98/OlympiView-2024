@@ -1,5 +1,15 @@
 # 🏅 Olympic 2024 Power BI Dashboard
 
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 ## Uncover the Story Behind the Games
 
 Step into the Olympic 2024 Dashboard—where data comes alive and every chart tells a story. This isn’t just about numbers; it’s about capturing the spirit of the Games through the journeys of athletes, the pride of nations, and the moments that make history. Explore the pulse of the world’s greatest sporting event—one insight at a time.
@@ -53,3 +63,39 @@ Before we dive into the details, let’s zoom out and take a look at the broader
     ![Overview Page](Screenshots/keyHighlight.png)
 
  ---
+
+ ## 🏃 Meet the Heroes: Athletes
+
+Every athlete has a story—of dedication, perseverance, and triumph. The **Athletes** page is where we celebrate these individual stories:
+
+- **Column Chart**: Athletes by age category and gender. Here, you see the faces behind the numbers—young stars and seasoned champions, all united by their love of sport.
+- **Stacked Bar Charts**:
+  - By Country and Gender: Discover which nations have the strongest teams, broken down by gender.
+  - By Country and Medal Type: See how different countries excel in various sports.
+- **Donut Charts**: Visualize the distribution of Gold, Silver, and Bronze medals by gender. A colorful display of achievement and equality.
+
+![Athletes Page](Screenshots/Athletes.png)
+
+---
+
+## 🌍 A World United: Country
+
+The Olympics bring together people from all corners of the globe. The **Country** page is a celebration of this unity:
+
+- **World Shape Map**: A stunning visual of the world, highlighting each participating country. This isn’t just a map; it’s a tapestry of cultures, all competing in the spirit of friendly competition.
+- **Country Slicer**: Curious about how your home country is doing? Use the slicer to explore detailed stats and find out.
+
+![Country Page](Screenshots/countryOverview.png)
+
+---
+
+## 📅 Reliving the Glory Days: Historic
+
+The Olympics have a rich history of unforgettable moments. The **Historic** page lets you walk down memory lane:
+
+- **Stacked Column Chart**: Gold, Silver, and Bronze medals by year. See how the competition has evolved over time and how different eras brought different champions to the fore.
+- **Country Slicer**: Focus on the historical achievements of specific nations and discover trends and legends that have shaped the Olympics.
+
+![Historic Page](Screenshots/HistoricalRanking.png)
+
+---
